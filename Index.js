@@ -20,5 +20,3 @@ app.use('/person',personData);
 app.listen(port,()=>{
   console.log("server started at port:",port);
 })
-
-// this is commit
